@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Web-site develope & web-design
 - 🌱 I’m currently learning - new ways to create websites and make them very cool!
 - 💞️ I’m looking to collaborate on, maybe startup or company, but work remotely(from home)
-- 📫 How to reach me - WhatsApp: +7-950-203-13-59
+- 📫 How to reach me - Site: dositevadim.ru
 
 <!---
 StrangerEagleAge/StrangerEagleAge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
