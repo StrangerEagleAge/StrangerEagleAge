@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vadim | @StrangerEagleAge
-- 👀 I’m interested in: Web-site develope & web-design
-- 🌱 I’m currently learning - new ways to create websites and make them very cool!
+- 👀 I’m interested in: Frontend Develope
+- 🌱 I’m currently learning - JS and React
 - 💞️ I’m looking to collaborate on, maybe startup or company
-- 📫 How to reach me - Site: dositevadim.ru
+- 📫 How to reach me - https://vk.com/dositevadim or Site: dositevadim.ru
 
 <!---
 StrangerEagleAge/StrangerEagleAge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
