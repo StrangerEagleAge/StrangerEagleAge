@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on, maybe startup or company
 - 📫 How to reach me - https://vk.com/dositevadim or Site: dositevadim.ru
 
-  ![html](https://github.com/StrangerEagleAge/StrangerEagleAge/assets/60423807/5e3fa567-9fad-458b-a7d4-dbbe43f053ab)
+  
+
+[html](https://github.com/StrangerEagleAge/StrangerEagleAge/assets/60423807/5e3fa567-9fad-458b-a7d4-dbbe43f053ab)
   ![css](https://github.com/StrangerEagleAge/StrangerEagleAge/assets/60423807/e5d2dbb4-f1e4-4a26-a325-9f464adabc1d)
 ![javascript](https://github.com/StrangerEagleAge/StrangerEagleAge/assets/60423807/89eea604-184b-4c64-87a2-36bd498fb344)
 ![sass](https://github.com/StrangerEagleAge/StrangerEagleAge/assets/60423807/235c87c4-f616-4696-b0db-0dbbf8534e62)
